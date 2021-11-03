@@ -1,0 +1,1 @@
+var footer = ("@ 2021 Vitor Cunha");
